@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /$
+
+Sitemap: http://winnipoker.wider-challenge.org/sitemap.xml
